@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{959C652E-8BA7-4A02-BB65-2937155BA9ED}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\zmathantala\\source\\repos\\if_statement\\consoleapp1\\object and class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959C652E-8BA7-4A02-BB65-2937155BA9ED}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\object and class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD539F39-B83A-42F2-8DC4-C9284DEA0A88}|callfrom\\callfrom.csproj|c:\\users\\zmathantala\\source\\repos\\if_statement\\callfrom\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD539F39-B83A-42F2-8DC4-C9284DEA0A88}|callfrom\\callfrom.csproj|solutionrelative:callfrom\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBE9E0-EDC3-447F-AE3F-2E94B1D1B958}|if_statement\\if_statement.csproj|c:\\users\\zmathantala\\source\\repos\\if_statement\\if_statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EBE9E0-EDC3-447F-AE3F-2E94B1D1B958}|if_statement\\if_statement.csproj|solutionrelative:if_statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD851FD3-327C-4D39-817C-D7F301D50C3B}|Solution Items{DD851FD3-327C-4D39-817C-D7F301D50C3B}|C:\\Users\\zmathantala\\source\\repos\\if_statement\\switch||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD851FD3-327C-4D39-817C-D7F301D50C3B}|Solution Items{DD851FD3-327C-4D39-817C-D7F301D50C3B}|solutionrelative:switch||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\if_statement\\Program.cs",
+              "RelativeDocumentMoniker": "if_statement\\Program.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\if_statement\\Program.cs",
+              "RelativeToolTip": "if_statement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:37:31.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "switch",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\switch",
+              "RelativeDocumentMoniker": "switch",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\switch",
+              "RelativeToolTip": "switch",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-02T06:39:29.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "call.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\callfrom\\call.cs",
+              "RelativeDocumentMoniker": "callfrom\\call.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\callfrom\\call.cs",
+              "RelativeToolTip": "callfrom\\call.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:17:34.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Object and Class.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\ConsoleApp1\\Object and Class.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Object and Class.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\if_statement\\ConsoleApp1\\Object and Class.cs",
+              "RelativeToolTip": "ConsoleApp1\\Object and Class.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:04:48.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
